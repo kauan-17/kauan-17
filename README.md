@@ -1,7 +1,8 @@
 
 &nbsp;&nbsp;&nbsp;
-<img width=50% align="center"  src="https://github.com/kauan-17/kauan-17/assets/83840682/a1b0d179-6b74-4d6c-8c19-4b71ab602725" />
-
+<div align="center">
+<img src="https://github.com/kauan-17/kauan-17/assets/83840682/b810de03-fca0-4687-afad-87b80b94e834" width="300px" height="300" />
+</div>
 
 <p align="center">Eu amo resolver grandes desafios usando tecnologia. Desenvolvedor Java apaixonado por resolver problemas complexos por meio da tecnologia. Gosto de equilibrar minha carreira entre habilidades técnicas e gerenciais, então participei de uma equipe onde adquiri experiência em desenvolvimento Java, colaborando com colegas, coordenando projetos, analisando e melhorando continuamente o software, integrando tudo isso com os fundamentos do desenvolvimento ágil.</p>&nbsp;
 
