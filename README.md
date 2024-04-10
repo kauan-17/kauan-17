@@ -7,7 +7,7 @@
 <p align="center">Eu amo resolver grandes desafios usando tecnologia. Desenvolvedor Java apaixonado por resolver problemas complexos por meio da tecnologia. Gosto de equilibrar minha carreira entre habilidades técnicas e gerenciais, então participei de uma equipe onde adquiri experiência em desenvolvimento Java, colaborando com colegas, coordenando projetos, analisando e melhorando continuamente o software, integrando tudo isso com os fundamentos do desenvolvimento ágil.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kauan-17&theme=radical&hide_border=&date_format=j%2Fn%5B%2FY%5D&mode=weekly&type=png" alt="GitHub Streak" /></a>
+<a href="https://github.com/kauan-17"><img src="https://github-readme-streak-stats.herokuapp.com?user=kauan-17&theme=radical&hide_border=&date_format=j%2Fn%5B%2FY%5D&mode=weekly&type=png" alt="GitHub Streak" /></a>
  </div>
  
  &nbsp;
