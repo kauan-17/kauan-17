@@ -4,7 +4,11 @@
 <img src="https://github.com/kauan-17/kauan-17/assets/83840682/b810de03-fca0-4687-afad-87b80b94e834" width="300px" height="300" />
 </div>
 
-<p align="center">Eu amo resolver grandes desafios usando tecnologia. Desenvolvedor Java apaixonado por resolver problemas complexos por meio da tecnologia. Gosto de equilibrar minha carreira entre habilidades técnicas e gerenciais, então participei de uma equipe onde adquiri experiência em desenvolvimento Java, colaborando com colegas, coordenando projetos, analisando e melhorando continuamente o software, integrando tudo isso com os fundamentos do desenvolvimento ágil.</p>&nbsp;
+<p align="center"Sou um Desenvolvedor Java apaixonado por resolver problemas complexos por meio da tecnologia. Tenho experiência prática em desenvolvimento backend, participação em projetos ágeis e integração de soluções eficientes para desafios reais. Estou sempre buscando equilibrar habilidades técnicas e gerenciais, com foco em entrega de valor e evolução constante.
+
+Atualmente, tenho trabalhado com Java, Spring Boot, Hibernate, PostgreSQL e ferramentas como Git, Jira e Docker, além de manter projetos paralelos que desafiam minha criatividade e lógica. Gosto de contribuir com a comunidade dev e estou em constante evolução, estudando AWS, Kubernetes e arquitetura de software.
+
+Busco oportunidades para crescer como desenvolvedor full stack, contribuindo com soluções robustas e escaláveis em ambientes colaborativos e inovadores.</p>&nbsp;
 
 &nbsp; ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=kauan-17&show_icons=true&theme=radical)&nbsp;
  &nbsp;
