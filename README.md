@@ -56,10 +56,6 @@ Busco oportunidades para crescer como desenvolvedor full stack, contribuindo com
 
 [![Filme](https://img.shields.io/badge/Filme-Java_CRUD-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/kauan-17/Filme)
 &nbsp;
-[![javaBasico](https://img.shields.io/badge/javaBasico-Aprendizado_Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/kauan-17/javaBasico)
-&nbsp;
-[![oracle-one](https://img.shields.io/badge/oracle--one-Projetos_Alura-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/kauan-17/oracle-one)
-&nbsp;
 [![Decodificador](https://img.shields.io/badge/Decodificador-JS_Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/kauan-17/Decodificador)
 &nbsp;
 [![Consultório](https://img.shields.io/badge/Consult%C3%B3rio-Sistema_Java_Hibernate-007396?style=for-the-badge&logo=hibernate&logoColor=white)](https://github.com/kauan-17/Consutorio)
