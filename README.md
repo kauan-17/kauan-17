@@ -36,21 +36,32 @@ Busco oportunidades para crescer como desenvolvedor full stack, contribuindo com
 ![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 ![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)&nbsp;
 
-#### Studying in this moment:
+#### Estudando atualmente:
 
 ![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 
-#### Databases:
+#### Bancos de Dados:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-#### Workstation Tools:
+#### Ferramentas & IDEs:
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+
+#### Projetos em Destaque:
+
+[![Filme](https://img.shields.io/badge/Filme-Java_CRUD-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/kauan-17/Filme)
+&nbsp;
+[![javaBasico](https://img.shields.io/badge/javaBasico-Aprendizado_Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/kauan-17/javaBasico)
+&nbsp;
+[![oracle-one](https://img.shields.io/badge/oracle--one-Projetos_Alura-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/kauan-17/oracle-one)
+&nbsp;
+[![Decodificador](https://img.shields.io/badge/Decodificador-JS_Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/kauan-17/Decodificador)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauan-17/kauan-17/output/github-contribution-grid-snake-dark.svg">
