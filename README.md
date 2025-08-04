@@ -53,7 +53,6 @@ Busco oportunidades para crescer como desenvolvedor full stack, contribuindo com
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
 #### Projetos em Destaque:
-
 [![Filme](https://img.shields.io/badge/Filme-Java_CRUD-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/kauan-17/Filme)
 &nbsp;
 [![Decodificador](https://img.shields.io/badge/Decodificador-JS_Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/kauan-17/Decodificador)
@@ -61,6 +60,9 @@ Busco oportunidades para crescer como desenvolvedor full stack, contribuindo com
 [![Consultório](https://img.shields.io/badge/Consult%C3%B3rio-Sistema_Java_Hibernate-007396?style=for-the-badge&logo=hibernate&logoColor=white)](https://github.com/kauan-17/Consutorio)
 &nbsp;
 [![Consulta-Spring](https://img.shields.io/badge/Consulta--Spring-CRUD_SpringBoot_Java17-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/kauan-17/Consulta-Spring)
+&nbsp;
+[![Estoque](https://img.shields.io/badge/Estoque-Microsservi%C3%A7os_Java_Angular-1976D2?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/kauan-17/projeto-de-estoque)
+
 
 
 <picture>
