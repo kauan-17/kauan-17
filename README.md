@@ -61,7 +61,7 @@ Busco oportunidades para crescer como desenvolvedor full stack, contribuindo com
 &nbsp;
 [![Consulta-Spring](https://img.shields.io/badge/Consulta--Spring-CRUD_SpringBoot_Java17-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/kauan-17/Consulta-Spring)
 &nbsp;
-[![Estoque](https://img.shields.io/badge/Estoque-Java_SpringBoot_Angular_Docker-3C873A?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/kauan-17/projeto-de-estoque)
+[![Estoque](https://img.shields.io/badge/Estoque-Microsservi%C3%A7os_Java_Angular_Docker-1976D2?style=for-the-badge&logo=springboot&logoColor=white&labelColor=1976D2)](https://github.com/kauan-17/projeto-de-estoque)
 
 
 
