@@ -4,28 +4,62 @@
 <img src="https://github.com/kauan-17/kauan-17/assets/83840682/b810de03-fca0-4687-afad-87b80b94e834" width="300px" height="300" />
 </div>
 
-<p align="center">Sou um Desenvolvedor Java apaixonado por resolver problemas complexos por meio da tecnologia. Tenho experiência prática em desenvolvimento backend, participação em projetos ágeis e integração de soluções eficientes para desafios reais. Estou sempre buscando equilibrar habilidades técnicas e gerenciais, com foco em entrega de valor e evolução constante.
+Olá, eu sou o Kauan Oliveira Neves
 
-Atualmente, tenho trabalhado com Java, Spring Boot, Hibernate, PostgreSQL e ferramentas como Git, Jira e Docker, além de manter projetos paralelos que desafiam minha criatividade e lógica. Gosto de contribuir com a comunidade dev e estou em constante evolução, estudando AWS, Kubernetes e arquitetura de software.
+ **Desenvolvedor Java Backend** | Spring Boot | Hibernate | APIs REST | PostgreSQL  
+ Apaixonado por tecnologia, soluções escaláveis e inovação.
 
-Busco oportunidades para crescer como desenvolvedor full stack, contribuindo com soluções robustas e escaláveis em ambientes colaborativos e inovadores.</p>&nbsp;
+---
+
+## Sobre mim
+Sou um **Desenvolvedor Java Backend** com experiência em **Spring Boot, Hibernate, PostgreSQL e integração de APIs REST**.  
+Já atuei em projetos profissionais de sustentação e desenvolvimento de novas funcionalidades, além de possuir conhecimento em **Angular e TypeScript** para apoio no front-end.  
+
+Atualmente, estou aprofundando estudos em **AWS, Kubernetes e arquitetura de software**, sempre buscando evolução contínua.  
+
 
 &nbsp; ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=kauan-17&show_icons=true&theme=radical)&nbsp;
  &nbsp;
  &nbsp;
 
+## 🚀 Projetos em Destaque
 
+### 🔧 Backend
+- [Consulta-Spring](https://github.com/kauan-17/Consulta-Spring) – CRUD em **Spring Boot + Java 17**
+- [Consultório](https://github.com/kauan-17/Consutorio) – Sistema de **Consultório com Java + Hibernate**
+- [Filme](https://github.com/kauan-17/Filme) – CRUD básico em **Java**
+
+### 🎨 Frontend
+- [Decodificador](https://github.com/kauan-17/Decodificador) – Projeto em **JavaScript**
+- [Sistema de Estoque (Spring Boot + Angular)](https://github.com/kauan-17/projeto-de-estoque) – Integração **Full Stack**
+
+---
 
 ## My Skills
 
-#### Main Stack:
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 🔹 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
+### 🔹 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Angula](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+### 🔹 Ferramentas & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+
+---
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -36,35 +70,12 @@ Busco oportunidades para crescer como desenvolvedor full stack, contribuindo com
 ![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 ![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)&nbsp;
 
-#### Estudando atualmente:
-
-![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
-
-#### Bancos de Dados:
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Ferramentas & IDEs:
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-
-#### Projetos em Destaque:
-[![Filme](https://img.shields.io/badge/Filme-Java_CRUD-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/kauan-17/Filme)
-&nbsp;
-[![Decodificador](https://img.shields.io/badge/Decodificador-JS_Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/kauan-17/Decodificador)
-&nbsp;
-[![Consultório](https://img.shields.io/badge/Consult%C3%B3rio-Sistema_Java_Hibernate-007396?style=for-the-badge&logo=hibernate&logoColor=white)](https://github.com/kauan-17/Consutorio)
-&nbsp;
-[![Consulta-Spring](https://img.shields.io/badge/Consulta--Spring-CRUD_SpringBoot_Java17-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/kauan-17/Consulta-Spring)
-&nbsp;
-[![Estoque - Spring Boot + Angular](https://img.shields.io/badge/Estoque-SpringBoot_+_Angular-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/kauan-17/projeto-de-estoque)
-
-
-
 
 
 <picture>
