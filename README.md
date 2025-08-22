@@ -18,7 +18,7 @@ Já atuei em projetos profissionais de sustentação e desenvolvimento de novas 
 Atualmente, estou aprofundando estudos em **AWS, Kubernetes e arquitetura de software**, sempre buscando evolução contínua.  
 
 
-&nbsp; ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=kauan-17&show_icons=true&theme=radical)&nbsp;
+
  &nbsp;
  &nbsp;
 
