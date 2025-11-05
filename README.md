@@ -31,7 +31,7 @@ Atualmente, estou aprofundando estudos em **AWS, Kubernetes e arquitetura de sof
 
 ### 🎨 Frontend
 - [Decodificador](https://github.com/kauan-17/Decodificador) – Projeto em **JavaScript**
-- [Livros](https://github.com/kauan-17/Angular-CLI) – Integração **Angular**
+- [Apicutor](https://github.com/kauan-17/apicutor) – Integração **Angular**
 
 ---
 
